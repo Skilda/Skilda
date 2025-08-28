@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skilda
-- 👀 I’m interested in 3D conception and Game developpement
-- 🌱 I’m currently learning the 3D base and Game coding
+- 👀 I’m interested in Game developpement and virtual experiences
+- 🌱 I’m currently learning web developement and data base
 - 💞️ I’m looking to collaborate with any one who want to help me learn
 - 📫 How to reach me Discorde: Skilda#3634
 
